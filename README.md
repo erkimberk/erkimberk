@@ -42,7 +42,7 @@
 
 ###
 
-<br clear="both">
+
 
 
 <picture>
