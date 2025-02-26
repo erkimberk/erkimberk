@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<img align="right" height="177" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkyZG1ja3MzcTl2MGEzcXFiZzU4MXB2cXV2cGtsaHFkcHE2NWZlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HeiVNyBWc1zSOMU/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkyZG1ja3MzcTl2MGEzcXFiZzU4MXB2cXV2cGtsaHFkcHE2NWZlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HeiVNyBWc1zSOMU/giphy.gif"  />
 
 ###
 
