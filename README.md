@@ -1,17 +1,18 @@
 <br clear="both">
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-###
 
-<img align="right" height="177" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkyZG1ja3MzcTl2MGEzcXFiZzU4MXB2cXV2cGtsaHFkcHE2NWZlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HeiVNyBWc1zSOMU/giphy.gif"  />
 
 ###
 
 <div align="left">
+  <img align="right" height="177" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkyZG1ja3MzcTl2MGEzcXFiZzU4MXB2cXV2cGtsaHFkcHE2NWZlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HeiVNyBWc1zSOMU/giphy.gif"  />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=erkimberk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
+
 
 <br clear="both">
 
